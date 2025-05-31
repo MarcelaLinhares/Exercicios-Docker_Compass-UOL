@@ -12,7 +12,7 @@ Você precisará:
   
   c. Construir a imagem e iniciar o container. 
   
-  d. Verificar se o processo está rodando com o novo usuário usando docker exec <container> whoami. 
+  d. Verificar se o processo está rodando com o novo usuário usando docker exec `<container>` whoami. 
 
 ## ⚙️ Execução do Exercício
 
